@@ -7,6 +7,8 @@ name = "pypi"
 nltk = "*"
 spacy = "*"
 publicsuffixlist = "*"
+"discord.py" = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
