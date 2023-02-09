@@ -1,0 +1,11 @@
+{
+    "mode": "whitelist",
+    "domains": [
+        "youtube.com",
+        "wikipedia.com",
+        "google.com",
+        "github.com",
+        "microsoft.com",
+        "stackoverflow.com"
+    ]
+}
